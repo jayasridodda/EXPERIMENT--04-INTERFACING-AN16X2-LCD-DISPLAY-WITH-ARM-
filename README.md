@@ -200,6 +200,10 @@ Jump to second line, position 2
 
 ## STM 32 CUBE PROGRAM :
 ```
+NAME: JAYASRI DODDA
+REG NO: 212222240028
+DEPT: AI-ML
+```
 #include "main.h"
 #include "lcd.h"
  MX_GPIO_Init();
